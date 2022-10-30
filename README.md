@@ -2,7 +2,7 @@
 [![wakatime](https://wakatime.com/badge/user/f9cb6937-57d2-4764-a7f6-6168bbd2bf5c.svg?style=flat)](https://wakatime.com/@f9cb6937-57d2-4764-a7f6-6168bbd2bf5c)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=riemogerz&theme=black-ice&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=riemogerz&theme=black-ice&border_radius=10&locale=id&date_format=j%20M%5B%20Y%5D&fire=DD2727&currStreakNum=DD2727)](https://git.io/streak-stats)
 
 <!-- ![codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
 ![mdn](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
