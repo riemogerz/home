@@ -38,9 +38,12 @@
 ![microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
 ![microsoft-windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![asus-rog-laptop](https://img.shields.io/badge/asus%20rog%20strix-000000?style=for-the-badge&logo=asus&logoColor=white)
-![intel-laptop](https://img.shields.io/badge/Intel%20Core_i7_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![intel-laptop](https://img.shields.io/badge/Intel%20Core_i7-7700HQ-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![ram-laptop](https://img.shields.io/badge/ram-16GB-blue?style=for-the-badge&logoColor=white)
 ![gpu-laptop](https://img.shields.io/badge/NVIDIA-GTX1050Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![intel-desktop](https://img.shields.io/badge/Intel%20Core_i9-9900KF-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![ram-desktop](https://img.shields.io/badge/ram-32GB-blue?style=for-the-badge&logoColor=white)
+![gpu-desktop](https://img.shields.io/badge/NVIDIA-RTX2080Ti_+_RTX3600Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 
 <!-- ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=riemogerz) -->
